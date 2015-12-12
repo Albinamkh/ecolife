@@ -1,0 +1,6 @@
+{
+  "name": "EcoLife",
+  "dependencies": {
+    "jquery": "1.11"
+  }
+}
